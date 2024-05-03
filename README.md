@@ -1,6 +1,6 @@
 # git-gogo-workflow
 
-I orginally this is a repo to go with an org for a group class project. The product we produced was gogoMoney, thus "gogo" is all over this.
+This repo was part of an org I made for a group class a few years back. The product we produced was gogoMoney, thus "gogo" is all through this.
 
 I'm including it here because it's an ok reference for using git, pull requests, etc.
 
