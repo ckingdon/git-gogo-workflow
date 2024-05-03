@@ -1,4 +1,8 @@
-# gogo-workflow
+# git-gogo-workflow
+
+I orginally this is a repo to go with an org for a group class project. The product we produced was gogoMoney, thus "gogo" is all over this.
+
+I'm including it here because it's an ok reference for using git, pull requests, etc.
 
 [git-feature-branching.md](https://github.com/EspressoPlus/gogo-workflow/blob/main/git-feature-branching.md) outlines the steps that we should follow when branching/merging. It includes graphics and examples wrt how Eclipse reflects git branches. 
 
